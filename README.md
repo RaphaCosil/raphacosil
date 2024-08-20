@@ -29,7 +29,7 @@
 
 ###
 
-<h2 align="left">Social media</h2>
+<h2 align="left">My social media</h2>
 
 ###
 

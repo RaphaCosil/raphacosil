@@ -3,6 +3,9 @@
 
 <p align="left">My name is Rapha and I'm a development student, from Brazil 🇧🇷<br><br>I've been working a lot with mobile in Kotlin lately👽</p>
 
+<h2 align="left"; href="https://github.com/stars/RaphaCosil/lists/my-portfolio
+";>✨Click here to see my favorite projects</h2>
+
 ###
 
 <h2 align="left">I code with</h2>

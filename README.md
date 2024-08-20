@@ -1,7 +1,5 @@
 <h1 align="left">Hello😺 What's up?</h1>
-
 ###
-
 <br clear="both">
 
 <p align="left">My name is Rapha and I'm a development student, from Brazil 🇧🇷<br><br>I've been working a lot with mobile in Kotlin lately👽</p>

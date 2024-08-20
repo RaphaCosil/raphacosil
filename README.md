@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">My name is Raphael and I'm a development student, from Brazil 🇧🇷<br><br>I've been working a lot with mobile in Kotlin lately👽</p>
+<p align="left">my name is Rapha and I'm a development student, from Brazil 🇧🇷<br><br>I've been working a lot with mobile in Kotlin lately👽</p>
 
 ###
 

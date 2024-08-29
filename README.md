@@ -29,10 +29,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/raphacosil/raphacosil/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">My social media</h2>
 
 ###
@@ -48,3 +44,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/raphacosil/raphacosil/output/snake.svg" alt="Snake animation" />
+

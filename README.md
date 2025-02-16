@@ -13,7 +13,7 @@
 ###
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/2346px-Android_logo_2019_%28stacked%29.svg.png" height="40" alt="android logo"  />
+  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/09/android_logo_2023-freelogovectors.net_.png" height="40" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />

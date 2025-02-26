@@ -1,4 +1,4 @@
-<h1 align="left">OMG Hi</h1>
+<h1 align="left">OMG Hi😼</h1>
 
 ###
 
@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="  https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.namu.wiki%2Fw%2FNestJS&psig=AOvVaw0GcIGdu7-04DbQyII0yNjr&ust=1740691649185000&source=images&opi=89978449.svg" height="40" alt="nest logo"  />
+  <img src="https://i.namu.wiki/i/X7RPRZJiL_bDk-b5yfaeCqEaINp3iwm7ngVhzN9LDg4hNjz0Bs3QTo7pgbCfGW3xp_sQZxMGUfnxBAXGNFwGKw.svg" height="40" alt="nest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />

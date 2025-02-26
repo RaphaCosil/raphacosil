@@ -3,8 +3,15 @@
 ###
 
 <br clear="both">
-
-<p align="left">My name is Raphael and I'm a development student, from Brazil 🇧🇷<br><br>I've been working a lot with mobile in Kotlin lately👽</p>
+.
+. .
+<p align="left">
+  My name is Raphael and I am a systems development student from Brazil 🇧🇷
+  <br><br>
+  I study native mobile development, APIs and backend-to-frontend
+  <br><br>
+  I have knowledge of several databases, both SQL and noSQL
+</p>
 
 ###
 
@@ -16,6 +23,8 @@
   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/09/android_logo_2023-freelogovectors.net_.png" height="40" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.namu.wiki%2Fw%2FNestJS&psig=AOvVaw0GcIGdu7-04DbQyII0yNjr&ust=1740691649185000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiq-Oyj4osDFQAAAAAdAAAAABAE" height="40" alt="nest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />

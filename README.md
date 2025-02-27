@@ -1,7 +1,4 @@
 <h1 align="left">OMG Hi😼</h1>
-
-###
-
 <br clear="both">
 
 <p align="left">

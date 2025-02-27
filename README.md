@@ -1,6 +1,4 @@
 <h1 align="left">OMG Hi😼</h1>
-<br clear="both">
-
 <p align="left">
   My name is Raphael and I am a systems development student from Brazil 🇧🇷
   <br><br>

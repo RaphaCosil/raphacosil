@@ -1,6 +1,6 @@
 <h1 align="left">OMG Hi😼</h1>
 <p align="left">
-  My name is Raphael and I am a systems development student from Brazil 🇧🇷
+  My name is Raphael and I am a software development student from Brazil 🇧🇷
   <br><br>
   I study backend and native mobile development
   <br><br>

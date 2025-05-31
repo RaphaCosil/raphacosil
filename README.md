@@ -46,5 +46,3 @@
 <img src="https://raw.githubusercontent.com/raphacosil/raphacosil/output/snake.svg" alt="Snake animation" />
 
 ###
-
-![svg](https://raw.githubusercontent.com/raphacosil/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg)

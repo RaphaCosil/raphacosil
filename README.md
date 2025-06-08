@@ -1,6 +1,7 @@
 <h2>About Me</h2>
   
-<p> I am a software developer focused on native mobile development and backend systems. My main experience is building solutions for these two areas. </p>
+<p> I am a software developer focused on native mobile development and backend systems. 
+  My main experience is building solutions for these two areas. </p>
 
 <h2>Skills and Interests</h2>
 

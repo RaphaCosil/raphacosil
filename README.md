@@ -1,7 +1,7 @@
 <h1 align="left">OMG Hi😼</h1>
 
 <p align="left">
-   <h2>About Me<h2><br><br>
+   <h2>About Me</h2>
   I am a software developer focused on native mobile development and backend systems. My main experience is building solutions for these two areas.
 </p>
 

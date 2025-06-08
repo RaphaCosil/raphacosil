@@ -1,28 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>About Me</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      line-height: 1.6;
-    }
-    h1, h2 {
-      color: #333;
-    }
-    ul {
-      list-style-type: disc;
-      margin-left: 20px;
-    }
-    img {
-      vertical-align: middle;
-    }
-  </style>
-</head>
-<body>
-
   <h1 align="left">OMG Hi😼</h1>
 
   <p align="left">
@@ -65,5 +40,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
   </div>
 
-</body>
-</html>
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphaCosil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph"  />
+</div>
+
+<img src="https://raw.githubusercontent.com/raphacosil/raphacosil/output/snake.svg" alt="Snake animation" />

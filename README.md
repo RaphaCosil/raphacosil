@@ -1,9 +1,9 @@
-<p align="left">
 <h2>About Me</h2>
-  I am a software developer focused on native mobile development and backend systems. My main experience is building solutions for these two areas.
-</p>
+  
+<p> I am a software developer focused on native mobile development and backend systems. My main experience is building solutions for these two areas. </p>
 
 <h2>Skills and Interests</h2>
+
 <ul>
   <li><strong>Mobile Development:</strong> Native Android applications using Java and Kotlin</li>
   <li><strong>Backend Development:</strong> RESTful APIs and backend microservices using Spring Boot</li>
@@ -41,7 +41,6 @@
 
 ###
 
-<div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphaCosil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
